@@ -9,7 +9,7 @@ def footer(data: Media) -> rx.Component:
         rx.hstack(
             icon_button(
                 "message-circle",
-                f"https://wa.me/5356933884",
+                f"https://wa.me/5356933884?text=Hola,%20quisiera%20conocer%20más%20sobre%20tus%20servicios.",
                 "",
                 False
             ),
