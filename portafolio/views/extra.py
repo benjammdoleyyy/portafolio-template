@@ -4,8 +4,10 @@ from portafolio.components.heading import heading
 from portafolio.data import Extra
 from portafolio.styles.styles import Size
 
-
 def extra(extras: list[Extra]) -> rx.Component:
+    if not extras:
+        return rx.box()  # o rx.fragment() si quieres un contenedor vacío
+
     return rx.vstack(
         heading("Extra"),
         rx.mobile_only(
