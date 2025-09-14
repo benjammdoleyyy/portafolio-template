@@ -17,7 +17,7 @@
     { "icon": "devicon-spring-plain", "name": "Spring Boot" },
     { "icon": "devicon-postgresql-plain", "name": "PostgreSQL" },
     { "icon": "devicon-docker-plain", "name": "Docker" },
-    { "icon": "simple-icons-swagger", "name": "Swagger" },
+    { "icon": "devicon-swagger-plain", "name": "Swagger" },
     { "icon": "devicon-git-plain", "name": "Git" },
     { "icon": "devicon-github-original", "name": "GitHub" }
   ],
@@ -40,7 +40,7 @@
         { "icon": "devicon-spring-plain", "name": "Spring Boot" },
         { "icon": "devicon-postgresql-plain", "name": "PostgreSQL" },
         { "icon": "devicon-docker-plain", "name": "Docker" },
-        { "icon": "simple-icons-swagger", "name": "Swagger" }
+        { "icon": "devicon-swagger-plain", "name": "Swagger" }
       ],
       "image": "/project_1.jpg",
       "url": "https://demo-university.com",
@@ -55,7 +55,7 @@
         { "icon": "devicon-spring-plain", "name": "Spring Boot" },
         { "icon": "devicon-postgresql-plain", "name": "PostgreSQL" },
         { "icon": "devicon-docker-plain", "name": "Docker" },
-        { "icon": "simple-icons-swagger", "name": "Swagger" }
+        { "icon": "devicon-swagger-plain", "name": "Swagger" }
       ],
       "image": "/project_2.jpg",
       "url": "https://demo-tasks.com",
